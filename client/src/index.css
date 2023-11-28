@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Outfit&family=Poppins&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif !important;
+}
+
+.nav-link {
+  color: black !important;
+}
+
+h1 {
+  font-size: 20px !important;
+}
+
+.flex-container {
+  display: flex;
+}
